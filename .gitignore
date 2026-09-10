@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
